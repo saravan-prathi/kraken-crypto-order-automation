@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>my.automation</groupId>
-    <artifactId>kraken-order-automation</artifactId>
+    <artifactId>kraken-crypto-order-automation</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
